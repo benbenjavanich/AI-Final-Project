@@ -1,0 +1,4 @@
+cna_id,specialties,shift_start,shift_end
+C1,mobility_assist;basic,07:00,15:00
+C2,fall_risk;basic,09:00,17:00
+C3,basic,08:00,16:00
